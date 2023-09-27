@@ -1,4 +1,4 @@
 ## Tutorials
 
-# Install Tailwind CSS with Create React App
-https://tailwindcss.com/docs/guides/create-react-app
+# Install Tailwind CSS with React
+https://tailwindcss.com/docs/guides/vite
